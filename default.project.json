@@ -1,6 +1,7 @@
 {
 	"name": "Promise",
 	"tree": {
+		"$className": "ModuleScript",
 		"$path": "lib/init.lua"
 	}
 }
