@@ -1,7 +1,7 @@
 {
 	"name": "Promise",
+	"globIgnorePaths": ["**/*.spec.lua"],
 	"tree": {
-		"$className": "ModuleScript",
-		"$path": "lib/init.lua"
+		"$path": "lib"
 	}
 }
